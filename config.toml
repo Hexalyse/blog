@@ -35,7 +35,7 @@ paginate = 10
   subTitle = "As long as you don't choose, everything remains possible."
 
   # Source URL of the website, will appear in the footer
-  # sourceURL = "https://github.com/itsme/my_blog"
+  sourceURL = "https://github.com/hexalyse/blog"
 
   # Use CloudFlare Workers to accelerate the Google Analytics
   # If you are using this please comment the googleAnalytics above
